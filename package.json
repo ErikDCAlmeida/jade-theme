@@ -28,5 +28,9 @@
       }
     ]
   },
-  "icon": "./public/icon-jade.jpg"
+  "icon": "./public/icon-jade.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErikDCAlmeida/jade-theme"
+  }
 }
